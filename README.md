@@ -5,5 +5,5 @@
 - When you click on the buttons you   
 can see an effect on button that was made by JS. You can also type the letter and can see the magic.
 
-**NOTE**
+**NOTE:**
 I'm just the beginner.
