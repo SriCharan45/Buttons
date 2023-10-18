@@ -1,3 +1,8 @@
+.main {
+    margin-top: 250px;
+    text-align: center;
+}
+
 .buttons {
     height: 30px;
     width: 30px;
@@ -8,10 +13,13 @@
     text-align: center;
     display: inline-block;
     border-radius: 5px;
+    box-shadow: 2px 2px 4px rgb(0,0,0,0.2);
 }
 
 h1 {
+    text-align: center;
     color: #7c0e0e;
+    cursor: pointer;
     transition: color 3s 2s;
 }
 
